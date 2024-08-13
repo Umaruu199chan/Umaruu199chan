@@ -4,5 +4,6 @@
 
 - 💼 Student
 - 🔍 I’m learning Web Development
+- Beginner ✨
 
   
